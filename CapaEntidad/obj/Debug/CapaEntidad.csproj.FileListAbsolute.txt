@@ -4,3 +4,9 @@ C:\Users\Usuario\source\repos\PROYECTO\CapaEntidad\obj\Debug\CapaEntidad.csproj.
 C:\Users\Usuario\source\repos\PROYECTO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\PROYECTO\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\Usuario\source\repos\PROYECTO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
