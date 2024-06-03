@@ -16,3 +16,21 @@ C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\Capa
 C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
 C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date

@@ -17,6 +17,7 @@ namespace Proyec_admin
                         "~/Scripts/loadingoverlay/loadingoverlay.min.js",
                         "~/Scripts/sweetalert.min.js",
                         "~/Scripts/jquery.validate.js",
+                        "~/Scripts/IU/jquery-ui.js",
                         "~/Scripts/scripts.js"));
             //  bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
             // "~/Scripts/jquery.validate*"));
@@ -33,6 +34,7 @@ namespace Proyec_admin
                       "~/Content/site.css",
                       "~/Content/DataTables/css/jquery.dataTables.css",
                       "~/Content/DataTables/css/responsive.dataTables.css",
+                      "~/Content/IU/jquery-ui.css",
                       "~/Content/sweetalert.css"
                       ));
         }

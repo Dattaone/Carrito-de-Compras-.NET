@@ -70,11 +70,7 @@ namespace CapaNegocio
             catch {
                 conversion = false;
             }
-
             return textoBase64;
         }
-
-
-
     }
 }

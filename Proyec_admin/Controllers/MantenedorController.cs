@@ -12,6 +12,7 @@ using System.Web.Mvc;
 
 namespace Proyec_admin.Controllers
 {
+    [Authorize]
     public class MantenedorController : Controller
     {
         // GET: Mantenedor
@@ -173,7 +174,7 @@ namespace Proyec_admin.Controllers
                         bool rspta = new CN_Producto().GuardarDatosImagen(oProducto, out mensaje);
                     }
                     else {
-                        mensaje = "Se guardo el producto pero hubo problemas con la imagen";
+                        mensaje = "Se guardo el producto, pero hubo problemas con la imagen";
                     }
                 }
             }

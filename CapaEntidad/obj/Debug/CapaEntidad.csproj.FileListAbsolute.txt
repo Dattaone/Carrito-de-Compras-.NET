@@ -10,3 +10,15 @@ C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\Capa
 C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\chepo\Documents\COSAS MASOMENOS IMPORTANTES\Visual Studio\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (11)\Nueva carpeta (2)\Nueva carpeta\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb

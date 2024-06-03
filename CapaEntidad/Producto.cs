@@ -19,5 +19,7 @@ namespace CapaEntidad
         public string RutaImagen { get; set; }
         public string NombreImagen { get; set; }
         public bool Activo { get; set; }
+        public string Base64 { get; set; }
+        public string Extension { get; set; }
     }
 }
